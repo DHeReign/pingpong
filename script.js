@@ -13,8 +13,8 @@ leftCounter.textContent = 0;
 rightCounter.textContent = 0;
 
 
-let ballSpeed = 7;
-let paddleSpeed = 7;
+let ballSpeed = 10;
+let paddleSpeed = 10;
 
 const leftPaddle = {
     x: grid * 2,
